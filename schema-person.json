@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Aryan",
+  "url": "https://cloudwitharyan.tech/",
+  "image": "https://cloudwitharyan.tech/assets/profile.jpg",
+  "jobTitle": "AWS Cloud & Security Engineer",
+  "description": "AWS Cloud & Security Engineer specializing in DevOps, Cloud Infrastructure, VAPT (Vulnerability Assessment & Penetration Testing) and Server Hardening.",
+  "sameAs": [
+    "https://www.linkedin.com/in/aryansaini870/",
+    "https://www.instagram.com/i.aryan_saini/",
+    "https://github.com/aryan-saini"
+  ],
+  "knowsAbout": [
+    "AWS Cloud",
+    "DevOps",
+    "Cloud Security",
+    "VAPT",
+    "Penetration Testing",
+    "Server Hardening",
+    "Networking",
+    "IAM",
+    "VPC",
+    "KMS",
+    "Kubernetes",
+    "Docker",
+    "CI/CD"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Certification",
+      "name": "Certified Ethical Hacker (CEH)",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "EC-Council"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Certification",
+      "name": "ISO 27001 Information Security"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Certification",
+      "name": "AWS Security / Cloud Security"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Certification",
+      "name": "CCNA-Level Networking"
+    }
+  ]
+}

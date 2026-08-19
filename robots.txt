@@ -1,0 +1,55 @@
+# robots.txt for https://cloudwitharyan.tech/
+# Generated for SEO + AI-crawler visibility (Google, Gemini, ChatGPT, Perplexity, Claude, etc.)
+
+User-agent: *
+Allow: /
+
+# Google (covers Google Search + powers Gemini's grounding via Search)
+User-agent: Googlebot
+Allow: /
+
+# Google-Extended controls use of content for Gemini / Google AI model training
+User-agent: Google-Extended
+Allow: /
+
+# Bing (powers Copilot)
+User-agent: Bingbot
+Allow: /
+
+# OpenAI crawlers (ChatGPT browsing + training)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic crawlers (Claude)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Common Crawl (feeds many AI training datasets)
+User-agent: CCBot
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# Sitemap location
+Sitemap: https://cloudwitharyan.tech/sitemap.xml

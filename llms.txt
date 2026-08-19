@@ -1,0 +1,22 @@
+# ARYAN.CLOUD
+
+> Aryan is an AWS Cloud & Security Engineer specializing in DevOps, Cloud Infrastructure, VAPT (Vulnerability Assessment & Penetration Testing), and Server Hardening. Certified: CEH (EC-Council), ISO 27001, AWS Security, CCNA-level Networking.
+
+## Core Expertise
+- AWS Cloud: IAM, EC2, S3, VPC, Route53, GuardDuty, KMS
+- DevOps: CI/CD, Docker, Kubernetes, Linux server management
+- VAPT: Nmap, Burp Suite, Metasploit, Wireshark, Kali Linux
+- Server Hardening: Fail2Ban, Nginx, SSL/TLS, firewalls, PM2
+- Networking: TCP/IP, VLAN, VPN, DNS, DHCP
+
+## Pages
+- [Home](https://cloudwitharyan.tech/index.html): Overview, core expertise, stats
+- [About](https://cloudwitharyan.tech/about.html): Background and experience
+- [Projects](https://cloudwitharyan.tech/projects.html): AWS/DevOps/Security project portfolio
+- [Certifications](https://cloudwitharyan.tech/certifications.html): CEH, ISO 27001, AWS Security, CCNA
+- [Contact](https://cloudwitharyan.tech/contact.html): Hire / contact Aryan
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/aryansaini870/
+- GitHub: https://github.com/aryan-saini
+- Instagram: https://www.instagram.com/i.aryan_saini/

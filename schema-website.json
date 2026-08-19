@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "ARYAN.CLOUD",
+  "url": "https://cloudwitharyan.tech/",
+  "description": "Portfolio website of Aryan, an AWS Cloud & Security Engineer specializing in DevOps, Cloud Infrastructure, VAPT and Server Hardening.",
+  "publisher": {
+    "@type": "Person",
+    "name": "Aryan"
+  },
+  "inLanguage": "en-IN"
+}

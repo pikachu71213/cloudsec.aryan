@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "AWS Cloud, DevOps & Cybersecurity Engineering",
+  "provider": {
+    "@type": "Person",
+    "name": "Aryan",
+    "url": "https://cloudwitharyan.tech/"
+  },
+  "areaServed": "Worldwide",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AWS Cloud Architecture",
+          "description": "Architecting scalable, secure cloud environments using IAM, EC2, S3, VPC, Route53, GuardDuty, and KMS."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "VAPT (Vulnerability Assessment & Penetration Testing)",
+          "description": "Vulnerability Assessment & Penetration Testing using Nmap, Burp Suite, Metasploit, Wireshark, and Kali Linux."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Server Hardening",
+          "description": "Securing Linux/Windows servers with Fail2Ban, Nginx configs, SSL/TLS, firewall rules, and PM2 management."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Networking & DevOps Infrastructure",
+          "description": "TCP/IP, VLAN, VPN, DNS, DHCP, CI/CD pipelines, Docker and Kubernetes for enterprise-grade infrastructure."
+        }
+      }
+    ]
+  }
+}
